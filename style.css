@@ -1,0 +1,24 @@
+.container 
+{ 
+  height: 100vh; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+} 
+
+.container-form 
+{ 
+  width: 50%; 
+  background-color: #87f6ff; 
+  border-radius: 10px; 
+} 
+
+h3 
+{ 
+  font-size: 14px; 
+} 
+
+.input-style 
+{ 
+  border: 0 !important; 
+} 
